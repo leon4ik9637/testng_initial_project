@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T15:56:06 EDT" name="Regression" finished-at="2023-05-05T15:56:53 EDT" duration-ms="47260">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T15:56:06 EDT" name="/Users/leon.kuchman/IdeaProjects/testng_initial_project/pom.xml" finished-at="2023-05-05T15:56:53 EDT" duration-ms="47260">
+      <class name="scripts.TechGlobalValidationLoginFormCard">
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:06 EDT" name="setup" finished-at="2023-05-05T15:56:10 EDT" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTechGlobalLoginFormCard()[pri:1, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:10 EDT" name="validateTechGlobalLoginFormCard" description="Validate TechGlobal Login Form Card" finished-at="2023-05-05T15:56:13 EDT" duration-ms="3555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTechGlobalLoginFormCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:13 EDT" name="tearDown" finished-at="2023-05-05T15:56:13 EDT" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:13 EDT" name="setup" finished-at="2023-05-05T15:56:16 EDT" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTechGlobalLoginFormCardValidLogin()[pri:2, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:16 EDT" name="validateTechGlobalLoginFormCardValidLogin" description="Validate TechGlobal Login Form Card Valid Login" finished-at="2023-05-05T15:56:19 EDT" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTechGlobalLoginFormCardValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:19 EDT" name="tearDown" finished-at="2023-05-05T15:56:19 EDT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:19 EDT" name="setup" finished-at="2023-05-05T15:56:21 EDT" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginFormCardAndLogout()[pri:3, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:21 EDT" name="validateLoginFormCardAndLogout" description="Validate TechGlobal Login Form card valid login and then logout" finished-at="2023-05-05T15:56:24 EDT" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormCardAndLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:24 EDT" name="tearDown" finished-at="2023-05-05T15:56:24 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:24 EDT" name="setup" finished-at="2023-05-05T15:56:26 EDT" duration-ms="1773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateForgotPasswordLinkAndReset()[pri:4, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:26 EDT" name="validateForgotPasswordLinkAndReset" description="Validate TechGlobal Login Form card Forgot Password? Link and Reset Password page" finished-at="2023-05-05T15:56:29 EDT" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForgotPasswordLinkAndReset -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:29 EDT" name="tearDown" finished-at="2023-05-05T15:56:29 EDT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:29 EDT" name="setup" finished-at="2023-05-05T15:56:31 EDT" duration-ms="1780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTGLoginFormCardResetPasswordLink()[pri:5, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:31 EDT" name="validateTGLoginFormCardResetPasswordLink" description="Validate TechGlobal Login Form card Reset Password link" finished-at="2023-05-05T15:56:34 EDT" duration-ms="2818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTGLoginFormCardResetPasswordLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:34 EDT" name="tearDown" finished-at="2023-05-05T15:56:34 EDT" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:34 EDT" name="setup" finished-at="2023-05-05T15:56:36 EDT" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTGInvalidLoginWithWrongUsername()[pri:6, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:36 EDT" name="validateTGInvalidLoginWithWrongUsername" description="Test Case 6: Validate TechGlobal Login Form card invalid login with wrong username" finished-at="2023-05-05T15:56:39 EDT" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTGInvalidLoginWithWrongUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:39 EDT" name="tearDown" finished-at="2023-05-05T15:56:39 EDT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:39 EDT" name="setup" finished-at="2023-05-05T15:56:41 EDT" duration-ms="1835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTGInvalidLoginWithWrongPassword()[pri:7, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:41 EDT" name="validateTGInvalidLoginWithWrongPassword" description="Test Case 7: Validate TechGlobal Login Form card invalid login with wrong password" finished-at="2023-05-05T15:56:44 EDT" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTGInvalidLoginWithWrongPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:44 EDT" name="tearDown" finished-at="2023-05-05T15:56:44 EDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:44 EDT" name="setup" finished-at="2023-05-05T15:56:46 EDT" duration-ms="1725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTGInvalidLoginWithWrongBothCredentials()[pri:8, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:46 EDT" name="validateTGInvalidLoginWithWrongBothCredentials" description="Test Case 8: Validate TechGlobal Login Form card invalid login with both wrong credentials " finished-at="2023-05-05T15:56:53 EDT" duration-ms="6889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTGInvalidLoginWithWrongBothCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.TechGlobalValidationLoginFormCard@71e9ddb4]" started-at="2023-05-05T15:56:53 EDT" name="tearDown" finished-at="2023-05-05T15:56:53 EDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.TechGlobalValidationLoginFormCard -->
+    </test> <!-- /Users/leon.kuchman/IdeaProjects/testng_initial_project/pom.xml -->
+  </suite> <!-- Regression -->
+</testng-results>
